@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronic Music more specifically House music.
 - 🌱 I’m currently learning javascript, python, web developer.
 - 💞️ I’m looking to collaborate on UTN FRRo
-- ⚖️ I work in Rosario as a technical support engineer at a company that is a Gold Partner of ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- ⚖️ I work in Rosario as a technical support engineer at a company that is a Gold Partner of       ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 -  
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
